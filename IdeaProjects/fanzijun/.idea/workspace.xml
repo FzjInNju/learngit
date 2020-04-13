@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5606eb0-339f-4842-81d5-3571064013c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aTaH3p55TwN4WWIr1RgQ5qIGbv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Git Bash.lnk" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager" selected="Application.HeartRateCalculation">
+    <configuration name="FirstDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="software2.FirstDemo" />
+      <module name="fanzijun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="software2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeartRateCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeartRateCalculation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework10comparenumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="software2.homework10comparenumbers" />
+      <module name="fanzijun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="software2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework10heartrate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="software2.homework10heartrate" />
+      <module name="fanzijun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="software2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HeartRateCalculation" />
+        <item itemvalue="Application.homework10comparenumbers" />
+        <item itemvalue="Application.homework10heartrate" />
+        <item itemvalue="Application.FirstDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5606eb0-339f-4842-81d5-3571064013c6" name="Default Changelist" comment="" />
+      <created>1586761946514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586761946514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="69" key="#HeartRateCalculation" timestamp="1586768892987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="69" key="#HeartRateCalculation/0.0.1536.824@0.0.1536.824" timestamp="1586768892987" />
+    <state x="500" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586768579833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586768579833" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586768576370">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586768576370" />
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom" timestamp="1586769570845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586769570845" />
+    <state width="1492" height="210" key="GridCell.Tab.0.center" timestamp="1586769570845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586769570845" />
+    <state width="1492" height="210" key="GridCell.Tab.0.left" timestamp="1586769570845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586769570845" />
+    <state width="1492" height="210" key="GridCell.Tab.0.right" timestamp="1586769570845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586769570845" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1586769563395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586769563395" />
+  </component>
+</project>
